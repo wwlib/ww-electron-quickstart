@@ -4,5 +4,5 @@
 
 console.log(`Hello`);
 
-hello = document.getElementById('hello');
+let hello = document.getElementById('hello');
 hello.textContent = 'Hello.';

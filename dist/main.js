@@ -6,6 +6,6 @@
 
 console.log('Hello');
 
-let hello = document.getElementById('hello');
+var hello = document.getElementById('hello');
 hello.textContent = 'Hello.';
 //# sourceMappingURL=main.js.map
